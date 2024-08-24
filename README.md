@@ -1,13 +1,14 @@
 # Douglas Pardim 🚀 
 
 **Fullstack Developer | React | React Native | Node.js**  
-Serra, Espírito Santo, Brasil  
+Serra, Espírito Santo, Brazil  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/douglas-pardim) 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)](https://github.com/DWRP)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://dwrp.github.io)
+[![Portuguese](https://img.shields.io/badge/Lang-PT--BR-green?style=flat)](./README-pt.md)
 
-## 🚀 **Sobre Mim**
-Sou um desenvolvedor Fullstack apaixonado por tecnologia com experiência em frontend e backend, sempre buscando soluções inovadoras e eficientes. Tenho uma sólida formação em informática e estou em constante evolução para aprimorar minhas habilidades.
+## 🚀 **About Me**
+I'm a Fullstack Developer passionate about technology, with experience in both frontend and backend, always seeking innovative and efficient solutions. I have a solid background in IT and am constantly evolving to improve my skills.
 
 ---
 
@@ -50,26 +51,26 @@ Sou um desenvolvedor Fullstack apaixonado por tecnologia com experiência em fro
 
 ---
 
-### Experiência
-- **Globalsys**: Fullstack Developer (Nov 2021 - Presente)
-- **Mil Sênior Lab**: Desenvolvedor (Jan 2021 - Mai 2023)
-- **EDP Brasil**: Estagiário (Abr 2019 - Jan 2021)
+### Experience
+- **Globalsys**: Fullstack Developer (Nov 2021 - Present)
+- **Mil Sênior Lab**: Developer (Jan 2021 - May 2023)
+- **EDP Brasil**: Intern (Apr 2019 - Jan 2021)
 
-### Formação
-- **Ciências da Computação** - Estácio (2020 - 2025)
-- **Desenvolvimento Full Stack** - Gama Academy (2020)
-- **Técnico em Informática** - IFES (2018 - 2019)
+### Education
+- **Computer Science** - Estácio (2020 - 2025)
+- **Full Stack Development** - Gama Academy (2020)
+- **Technical in Informatics** - IFES (2018 - 2019)
 
 ---
 
-## 📜 **Certificações**
+## 📜 **Certifications**
 - Node.js
-- Performance Web com Javascript
-- Desenvolvimento de Aplicações com .NET
-- Aceleração Global Dev #2 - Avanade
+- Web Performance with Javascript
+- Application Development with .NET
+- Global Dev Acceleration #2 - Avanade
 
 ---
 
-## 🌐 **Redes Sociais**
+## 🌐 **Social Networks**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/douglas-pardim) 
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/DWRP)
