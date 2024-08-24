@@ -1,5 +1,3 @@
-![Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-
 # Douglas Pardim 🚀 
 
 **Fullstack Developer | React | React Native | Node.js**  
@@ -7,6 +5,9 @@ Serra, Espírito Santo, Brasil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/douglas-pardim) 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)](https://github.com/DWRP)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://dwrp.github.io)
+
+## 🚀 **Sobre Mim**
+Sou um desenvolvedor Fullstack apaixonado por tecnologia com experiência em frontend e backend, sempre buscando soluções inovadoras e eficientes. Tenho uma sólida formação em informática e estou em constante evolução para aprimorar minhas habilidades.
 
 ---
 
@@ -48,9 +49,6 @@ Serra, Espírito Santo, Brasil
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWRP&layout=compact&theme=dracula)
 
 ---
-
-## 🚀 **Sobre Mim**
-Sou um desenvolvedor Fullstack apaixonado por tecnologia com experiência em frontend e backend, sempre buscando soluções inovadoras e eficientes. Tenho uma sólida formação em informática e estou em constante evolução para aprimorar minhas habilidades.
 
 ### Experiência
 - **Globalsys**: Fullstack Developer (Nov 2021 - Presente)
