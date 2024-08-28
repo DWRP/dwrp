@@ -5,7 +5,7 @@ Serra, Espírito Santo, Brazil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/douglas-pardim) 
 [![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)](https://github.com/DWRP)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=Google-chrome&logoColor=white)](https://dwrp.github.io)
-[![Portuguese](https://img.shields.io/badge/SEE-IN-PT--BR-green?style=flat)](./README-pt.md)
+[![Portuguese](https://img.shields.io/badge/SEE_IN-PT--BR-green?style=flat)](./README-pt.md)
 
 ## 🚀 **About Me**
 I'm a Fullstack Developer passionate about technology, with experience in both frontend and backend, always seeking innovative and efficient solutions. I have a solid background in IT and am constantly evolving to improve my skills.
