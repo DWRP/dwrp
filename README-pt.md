@@ -46,6 +46,7 @@ Sou um desenvolvedor Fullstack apaixonado por tecnologia com experiência em fro
 ---
 
 ## 📊 **GitHub Stats**
+[![roadmap.sh](https://roadmap.sh/card/wide/66cfbcc286ab8b2c17707e88?variant=dark)](https://roadmap.sh)
 ![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DWRP&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWRP&layout=compact&theme=dracula)
 
